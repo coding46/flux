@@ -347,8 +347,8 @@ class FluxService implements SingletonInterface {
 	}
 
 	/**
-	 * ResolveUtility the top-priority ConfigurationPrivider which can provide
-	 * a working FlexForm configuration baed on the given parameters.
+	 * ResolveUtility the top-priority ConfigurationProvider which can provide
+	 * a working FlexForm configuration based on the given parameters.
 	 *
 	 * @param string $table
 	 * @param string $fieldName
